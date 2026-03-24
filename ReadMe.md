@@ -115,9 +115,10 @@ Update this `ReadMe.md` with the following information at the top:
 
 Edit the Repository Details (click the "About" gear icon) so that it includes a short description of your project and a link to the Netlify URL of your deployed site.
 
-![](./docs/images/repo-edit-details.png)
-
-![](./docs/images/repo-about.png)
+| Edit Repository Details                  | Sample Result |
+| ---------------------------------------- | ------------- |
+| ![](./docs/images/repo-edit-details.png) |
+| ![](./docs/images/repo-about.png)        |
 
 
 ## Final Submission
