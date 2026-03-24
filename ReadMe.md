@@ -85,7 +85,7 @@ Add a `pages/api/about.js` endpoint to provide the `"about"` portion of your `pr
 
 A placeholder card has been included in `index.js`. You must replace this with a `WeatherCard` component which uses the [OpenWeatherMap](https://openweathermap.org) API. Your creation of this component is to include unit tests. All the major code portions are provided for you as images that you must hand-code into your project.
 
-1. Follow the instructions to [manage your API key](./docs/WeatherSetup.md) for the service.
+1. Follow the instructions to [manage your API key](./docs/WeatherSetup.md) for consuming/using the weather service.
 1. Add the following dependencies and scripts to your project:
     - Dev Dependencies:
         - `jsdom`
@@ -99,6 +99,7 @@ A placeholder card has been included in `index.js`. You must replace this with a
         - `"test": "vitest run"`
         - `"test:watch": "vitest"`
 1. Follow [these instructions](./docs/WeatherCardComponent.md) to create the functioning component, complete with unit tests.
+1. Follow [these instructions](https://docs.netlify.com/build/environment-variables/overview/) for setting up your API key on your Netlify deployment.
 1. Update your project's **minor** version number: `npm version minor`.
 
 
