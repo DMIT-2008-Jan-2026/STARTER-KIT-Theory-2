@@ -49,7 +49,7 @@ When creating your copy, ensure it is on your own GitHub user account and that i
 
 ## **(3 Marks)** - Deploy to Netlify
 
-If you have not yet done so, create an account on Netlify. Deploy your copy of this project and use your GitHub username as the subdomain of the published site. For example, if your GitHub username is `stew-dent`, then your site should be publically visible at [`stew-dent.netlify.app`](https://stew-dent.netlify.app).
+If you have not yet done so, create an account on Netlify. Deploy your copy of this project and use your GitHub username as the subdomain of the published site. For example, if your GitHub username is `stew-dent`, then your site should be publically visible at [`stew-dent.netlify.app`](https://stew-dent.netlify.app). (If that URL is not available, use something close/similar.)
 
 
 ## **(1 Mark)** - Update Dependencies
@@ -57,6 +57,8 @@ If you have not yet done so, create an account on Netlify. Deploy your copy of t
 You will need to examine your project for outdated dependencies and perform the appropriate updates. After updating your dependencies, increase the patch version of your own project: `npm version patch`.
 
 > *📍 Make sure to do a commit and push of your code changes at this point.*
+>
+> *Also, ensure that when you are pushing updates, those are flowing through to your Netlify deployment.*
 
 
 ## **(3 Marks)** - Customize the `profile.json`
@@ -127,6 +129,8 @@ In Brightspace, submit the URL for your website and your GitHub repository. Reme
 
 ## Grading Rubric
 
+A **minimum** of 5 commits (including the initial one for creating the repo) are required for this assignment. The commits must align with the steps noted in these specs. Insufficient commits may result in a deduction of up to 5 marks from the total.
+
 | Step                     | Weight |  Earned   |
 | ------------------------ | :----: | :-------: |
 | Deploy to Netlify        |   3    |  **tbd**  |
@@ -136,4 +140,5 @@ In Brightspace, submit the URL for your website and your GitHub repository. Reme
 | Weather Information Card |   10   |  **tbd**  |
 | Update ReadMe            |   2    |  **tbd**  |
 | GitHub Repository        |   1    |  **tbd**  |
+| *Penalties - up to -5*   | (-5)   | |       
 | **Total**                |  *22*  | ***TBD*** |
