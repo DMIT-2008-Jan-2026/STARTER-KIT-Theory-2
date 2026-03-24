@@ -77,7 +77,7 @@ When you have completed the customization to your personal information, do anoth
 
 ## **(2 Marks)** - Add a JSON API Endpoint
 
-Add a `pages/api/about.js` endpoint to provide the `"about"` portion of your `profile.json` information. Do another version bump: `npm version patch`.
+Add a **`pages/api/about.js`** endpoint to provide the `"about"` portion of your `profile.json` information. Do another version bump: `npm version patch`. For an example of how to do this, see the [`pages/api/hello.js`](./src/pages/api/hello.js) file.
 
 
 > *📍 Make sure to do a commit and push of your code changes at this point.*
