@@ -140,5 +140,5 @@ A **minimum** of 5 commits (including the initial one for creating the repo) are
 | Weather Information Card |   10   |  **tbd**  |
 | Update ReadMe            |   2    |  **tbd**  |
 | GitHub Repository        |   1    |  **tbd**  |
-| *Penalties - up to -5*   | (-5)   | |       
+| *Penalties: up to -5*    |  (-5)  |           |
 | **Total**                |  *22*  | ***TBD*** |
