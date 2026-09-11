@@ -54,6 +54,8 @@ If you have not yet done so, create an account on Netlify. Deploy your copy of t
 
 ## **(1 Mark)** - Update Dependencies
 
+> **NOTICE:** The dependencies in this repo are **very outdated**. Your instructor will guide you on how to do the updates of dependencies when this assignment is released.
+
 You will need to examine your project for outdated dependencies and perform the appropriate updates. After updating your dependencies, increase the patch version of your own project: `npm version patch`.
 
 > *📍 Make sure to do a commit and push of your code changes at this point.*
